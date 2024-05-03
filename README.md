@@ -17,6 +17,6 @@ El sistema lanzará advertencias si no existe un contacto principal activo para 
 ## Tecnologías utilizadas
 
 - Laravel 11: Un potente framework de PHP para el desarrollo de aplicaciones web.
-- Inertia.js: Una librería que permite construir aplicaciones de una sola página utilizando componentes de Vue.js en el frontend y Laravel en el backend.
+- Inertia.js: Una librería que permite construir aplicaciones de una sola página utilizando componentes de React en el frontend y Laravel en el backend.
 
 Probando laravel 11 e inertia porque... por que no? :)
